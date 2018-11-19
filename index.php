@@ -39,6 +39,7 @@
 					</div> <!-- .main-navigation -->
 
 					<div class="mobile-navigation"></div>
+					<div class="small-mobile"></div>
 
 				</div>
 			</div> <!-- .site-header -->
